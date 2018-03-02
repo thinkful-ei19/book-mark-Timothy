@@ -1,4 +1,4 @@
-/* globals $ */
+/* globals $, detailedBookmark */
 'use strict';
 const detailedBookmark = (function(){
   function expandBookMarkForm() {
