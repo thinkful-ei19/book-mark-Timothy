@@ -1,0 +1,12 @@
+/* .bookmark-list-expanded {
+    display: none;
+    padding : 5px;
+} */
+
+* {
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
